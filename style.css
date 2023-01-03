@@ -1,0 +1,181 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=PT+Serif&family=Poppins&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'PT Serif', serif;
+}
+.top{
+    background-color:rgb(52,52, 52);
+    height: 200vh;
+    display: flex;
+    gap: 20px;
+}
+.firstsec{
+    width: 950px;
+    height: 1100px;
+    position: relative;
+    left: 10px;
+    top: 50px;
+    bottom: 20px;
+    box-shadow: 0px 2px 50px rgba(0, 0, 0, 0.2);
+    background-color: white;
+    border-radius: 8px;
+    padding-top: 60px;
+    padding-left: 100px;
+}
+.firstsec1{
+    width: 950px;
+    height: 1100px;
+    margin: 40px auto;
+    box-shadow: 0px 2px 50px rgba(0, 0, 0, 0.2);
+    background-color: white;
+    border-radius: 8px;
+    padding-top: 60px;
+    padding-left: 100px;
+}
+.secondsec{
+    height: 1100px;
+    position: relative;
+    left: 20px;
+    top: 50px;
+    bottom: 20px;
+    box-shadow: 0px 2px 50px rgba(0, 0, 0, 0.2);
+    background-color: white;
+    border-radius: 8px;
+    padding-top: 60px
+}
+.contentsection{
+    width: 800px;
+    margin: 20px auto;
+    display: flex;
+    flex-direction: column;
+    gap: 100px;
+}
+.text{
+    display: flex;
+    gap: 160px;
+}
+.text h1{
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: 0.1px;
+}
+.toptext h2{
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+}
+.toptext p{
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+}
+.creatorimg{
+    width: 180px;
+}
+.firstcol{
+    display: flex;
+    gap: 5px;
+}
+.pic{
+    font-weight: 600;
+    letter-spacing: 0.1px;
+    font-family: 'Poppins', sans-serif;
+}
+.pic p{
+    font-weight: bolder;
+    font-family: 'Poppins', sans-serif;
+}
+.pic1{
+    font-weight: 600;
+    letter-spacing: 0.1px;
+    font-family: 'Poppins', sans-serif;
+}
+.pic1 p{
+    font-weight: bolder;
+    letter-spacing: 0.1px;
+    font-family: 'Poppins', sans-serif;
+}
+.secondcol{
+    display: flex;
+    position: relative;
+    top: 120px;
+    gap: 5px;
+}
+.writeup p{
+    writing-mode: vertical-lr;   
+    font-size: 10px;
+}
+.creators{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+.allcreators{
+    display: flex;
+    gap: 50px;
+}
+span{
+    font-size: 12px;
+    font-weight: bolder;
+    text-decoration: underline;
+}
+.bottomtext p{
+    position: relative;
+    top: 140px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    color: #A9A9A9;
+    text-align: center;
+}
+.secondsec{
+    width: 355px;
+}
+.texts{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+.who h1{
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+}
+.who p{
+    font-size: 13px;
+    font-family: 'Poppins', sans-serif;
+}
+.name h6{
+    font-size: 15px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+}
+.contsec{
+    width: 280px;
+    margin: 13px;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+.secimg{
+    width: 150px;
+    height: 180px;
+}
+.allcreat{
+    display: flex;
+    gap: 13px;
+}
+.cre2{
+    position: relative;
+    top: 60px;
+}
+.firstcre{
+    display: flex;
+}
+.side p{
+    writing-mode: vertical-lr;
+    font-size: 9px;
+}
