@@ -178,6 +178,7 @@ span{
     }
     .secondsec{
         position: static;
+        margin-top: 40px;
         display: block;
     }
 }
