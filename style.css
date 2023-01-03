@@ -174,7 +174,7 @@ span{
 }
 @media only screen and (max-width:768px){
     .top{
-        height: 150vh;
+        height: 160vh;
     }
     .firstsec{
         display: none;
