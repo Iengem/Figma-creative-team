@@ -177,6 +177,7 @@ span{
         display: none;
     }
     .secondsec{
+        position: static;
         display: block;
     }
 }
