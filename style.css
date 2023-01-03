@@ -12,6 +12,7 @@
     gap: 20px;
 }
 .firstsec{
+    margin: 0px auto;
     width: 950px;
     height: 1100px;
     position: relative;
@@ -35,6 +36,8 @@
     padding-left: 100px;
 }
 .secondsec{
+    margin: 0px auto;
+    display: none;
     height: 1100px;
     position: relative;
     left: 20px;
